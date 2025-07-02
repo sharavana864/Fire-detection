@@ -63,7 +63,7 @@ If fire/gas is detected, it:
 - **Danger Condition**:
 DANGER!!
 VACATE Building!
-# images 
+
 
 
 # 🛠 Future Improvements
