@@ -1,3 +1,4 @@
+
 # 🔥 Fire & Gas Detection System with Arduino
 
 ## 📌 Project Overview
@@ -63,6 +64,7 @@ If fire/gas is detected, it:
 - **Danger Condition**:
 DANGER!!
 VACATE Building!
+![Screenshot 2025-07-02 190327](https://github.com/user-attachments/assets/d34b7c8f-7388-407b-bda6-5e41a9bec8cd)![Screenshot 2025-07-02 185238](https://github.com/user-attachments/assets/f256beb1-516e-4255-9ad8-80ed4bcfebcd)
 
 
 
